@@ -95,7 +95,7 @@ class AppBarWithSearchSwitch extends InheritedWidget
     this.flexibleSpace,
     this.bottom,
     this.elevation,
-    this.scrolledUnderElevation,
+    //this.scrolledUnderElevation,
     this.shadowColor,
     this.surfaceTintColor,
     this.shape,
@@ -154,7 +154,7 @@ class AppBarWithSearchSwitch extends InheritedWidget
   /// See [AppBar] documentation for help.
   ///
   /// This parameter is used then search is active: [isSearchMode] == true.
-  final double? scrolledUnderElevation;
+  //final double? scrolledUnderElevation;
 
   /// See [AppBar] documentation for help.
   ///
